@@ -4,7 +4,7 @@ main()
 {
     /* code */
     /*
-    semicolon become a string 
+    hello world  not a string 
     */
     printf(''hello, world");
 
